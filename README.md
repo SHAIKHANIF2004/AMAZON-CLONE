@@ -52,7 +52,7 @@ Feel free to check out my other projects or connect:
 
 🌐 Portfolio: [My Portfolio](http://portfolio-snowy-five-96.vercel.app)
 
-📧 Email: your-shaikhanif2004@gmail.com
+📧 Email: shaikhanif2004@gmail.com
 
 💼 LinkedIn: [Shaik Abdul Hanif](https://www.linkedin.com/in/shaik-abdulhanif-6b449b28b)
 
